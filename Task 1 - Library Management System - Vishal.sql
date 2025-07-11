@@ -1,4 +1,4 @@
--- Task1---ProjectTitle:Library Management System 
+--- Task1---ProjectTitle:Library Management System 
 
 create database LibraryManagementSystem;
 use LibraryManagementSystem;
